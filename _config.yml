@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.6433692
+  lightness: 0.8082438
+  brandStrength: 0.8996416
+  brandColors:
+    - '#FFFFFF'
+    - '#0F0F0F'
+    - '#AEAEAE'
+    - '#555555'
+    - '#7A7A7A'
+  rhythmicContrast: 0.4204694
+typography_spectrum: 0.04301075
+name: Peached
