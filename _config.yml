@@ -1,14 +1,26 @@
-layout_spectrum: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5322581
 color:
-  saturation: 0.6433692
-  lightness: 0.8082438
+  saturation: 1
   brandStrength: 0.8996416
+  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#0F0F0F'
     - '#AEAEAE'
     - '#555555'
     - '#7A7A7A'
-  rhythmicContrast: 0.4204694
-typography_spectrum: 0.04301075
+  rhythmicContrast: 0.7670251
+layout_spectrum: 0
 name: Peached
